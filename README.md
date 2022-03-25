@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barisbll
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning GraphQL, Typescript, Mongoose...
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Development projects with Node.js or React
 - 📫 You can reach me at barisbll.dev@gmail.com 
 
