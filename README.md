@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **barisbll.dev@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/PwkhRC8lZ](https://resume.io/r/PwkhRC8lZ)
+- 📄 Know about my experiences [my online resume](https://resume.io/r/otCC8X3LP)
 
 - ⚡ Fun fact **I am a polyglot and able to talk 5 languages in different levels 😅**
 
