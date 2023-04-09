@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Wrapper](https://github.com/rabbit-wrapper/wrapper)
 
-- 🤝 I’m looking for help with [Wrapper](https://github.com/rabbit-wrapper/wrapper)
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/barisbll?tab=repositories)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@barisbll) and [dev.to](https://dev.to/barisbll)
