@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Wrapper](https://github.com/rabbit-wrapper/wrapper)
 
-- 🌱 I’m currently learning **Advanced Golang**
+- 🌱 I’m currently learning **React Query**
 
 - 👯 I’m looking to collaborate on [Wrapper](https://github.com/rabbit-wrapper/wrapper)
 
