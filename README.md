@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/barisbll_dev" target="blank"><img src="https://img.shields.io/twitter/follow/barisbll_dev?logo=twitter&style=for-the-badge" alt="barisbll_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Wrapper](https://github.com/rabbit-wrapper/wrapper)
+- 🔭 I’m currently working on [r4bbit](https://github.com/r4bbitjs/r4bbit)
 
 - 🌱 I’m currently learning **React Query**
 
-- 👯 I’m looking to collaborate on [Wrapper](https://github.com/rabbit-wrapper/wrapper)
+- 👯 I’m looking to collaborate on [r4bbit]([https://github.com/rabbit-wrapper/wrapper](https://github.com/r4bbitjs/r4bbit))
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/barisbll?tab=repositories)
 
