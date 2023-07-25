@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [r4bbit](https://github.com/r4bbitjs/r4bbit)
 
-- 🌱 I’m currently learning **React Query**
+- 🌱 I’m currently learning **Rust** 🦀
 
 - 👯 I’m looking to collaborate on [r4bbit]([https://github.com/rabbit-wrapper/wrapper](https://github.com/r4bbitjs/r4bbit))
 
@@ -13,13 +13,15 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@barisbll) and [dev.to](https://dev.to/barisbll)
 
+- 🥸 The last article I wrote is *[How to Create a TypeScript NPM Library for Dummies](https://medium.com/javascript-in-plain-english/how-to-create-a-typescript-npm-library-for-dummies-6633f2506a17)* 
+
 - 💬 Ask me about **TypeScript, Nodejs, React**
 
 - 📫 How to reach me **barisbll.dev@gmail.com**
 
 - 📄 Know about my experiences [my online resume](https://resume.io/r/otCC8X3LP)
 
-- ⚡ Fun fact **I am a polyglot and able to talk 5 languages in different levels 😅**
+- ⚡ Fun fact **I am a polyglot and able to talk 5 languages on different levels 😅**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
