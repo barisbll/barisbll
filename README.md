@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@barisbll) and [dev.to](https://dev.to/barisbll)
 
-- 🥸 The last article I wrote is *[How to Create a TypeScript NPM Library for Dummies](https://medium.com/javascript-in-plain-english/how-to-create-a-typescript-npm-library-for-dummies-6633f2506a17)* 
+- 🥸 The last article I wrote is *[How to Create a TypeScript NPM Library for Dummies?](https://medium.com/javascript-in-plain-english/how-to-create-a-typescript-npm-library-for-dummies-6633f2506a17)* 
 
 - 💬 Ask me about **TypeScript, Nodejs, React**
 
