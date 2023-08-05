@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">A passionate software engineer in Poland</h3>
+<h3 align="center">A passionate software engineer based in Poland</h3>
 
 <p align="left"> <a href="https://twitter.com/barisbll_dev" target="blank"><img src="https://img.shields.io/twitter/follow/barisbll_dev?logo=twitter&style=for-the-badge" alt="barisbll_dev" /></a> </p>
 
